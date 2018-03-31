@@ -47,7 +47,7 @@
     "react": "15.6.2",
     "react-dom": "15.6.2",
     "react-forecast": "0.0.7",
-    "react-geolocated": "0.4.1"
+    "react-geolocated": "0.5.1"
   },
   "scripts": {
     "start": "node ./scripts/start.js",
