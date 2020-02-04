@@ -32,7 +32,7 @@
     "fs-extra": "0.30.0",
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.22.0",
-    "json-loader": "0.5.4",
+    "json-loader": "0.5.7",
     "opn": "4.0.2",
     "postcss-loader": "3.0.0",
     "promise": "7.1.1",
