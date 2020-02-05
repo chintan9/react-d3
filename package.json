@@ -35,7 +35,7 @@
     "json-loader": "0.5.4",
     "opn": "4.0.2",
     "postcss-loader": "3.0.0",
-    "promise": "7.1.1",
+    "promise": "8.0.3",
     "rimraf": "2.5.4",
     "style-loader": "0.13.1",
     "url-loader": "0.6.2",
