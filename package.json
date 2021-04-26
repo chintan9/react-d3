@@ -44,8 +44,8 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
-    "react": "15.6.2",
-    "react-dom": "15.6.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-forecast": "0.0.7",
     "react-geolocated": "0.4.1"
   },
